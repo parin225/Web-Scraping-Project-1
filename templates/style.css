@@ -1,0 +1,7 @@
+/* styling needed to display Mars hemisphere pictures in the center of page  */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+        }
